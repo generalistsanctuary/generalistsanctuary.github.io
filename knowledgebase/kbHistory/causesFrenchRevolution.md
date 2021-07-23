@@ -7,3 +7,8 @@ The **subsistence crisis** was a result of both increasing population and a larg
 Simultaneously **new political ideas** like that of the social contract and division of power challenged the status quo. Also developments across the Atlantic such as America's constitution and Declaration of Rights fascinated many to imagine what would a country be like where the right to life, liberty of expression and equality were inalienable. These intellectual ideas  found ways into the minds of the people primarily due to the emerging [middle class](./roleOfMiddleClassInFrenchRevolution.md). It was the middle class who would lead the discussions in clubs and markets making many who couldn't read and write aware of these new ideas.
 
 In 1789 these events culminated with the people of the third estate taking up arms against an unjust rule. And as the violence grew another section (National Assembly) drafted the constitution of a new country overthrowing the monarch and establishing a Constitutional Monarchy, under which lived not subjects but citizens.
+
+<hr>
+
+### References
+- https://ncert.nic.in/textbook.php?iess3=1-5
