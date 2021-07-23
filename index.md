@@ -14,3 +14,4 @@
 - [Is common sense universal?](./knowledgebase/kbSociety/commonsense.md)
 - [Why was the French Revolution inevitable?](./knowledgebase/kbHistory/causesFrenchRevolution.md)
 - [The role of the middle class in French Revolution](./knowledgebase/kbHistory/roleOfMiddleClassInFrenchRevolution.md)
+- [Condition of the poor during French Revolution](./knowledgebase/kbHistory/conditionOfThePoorDuringFrenchRevolution.md)
