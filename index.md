@@ -11,6 +11,7 @@
 
 #### Recently posted/updated
 
+- [What is national income?](./knowledgebase/kbEconomics/nationalIncome.md)
 - [Is common sense universal?](./knowledgebase/kbSociety/commonsense.md)
 - [Why was the French Revolution inevitable?](./knowledgebase/kbHistory/causesFrenchRevolution.md)
 - [The role of the middle class in the French Revolution](./knowledgebase/kbHistory/roleOfMiddleClassInFrenchRevolution.md)
