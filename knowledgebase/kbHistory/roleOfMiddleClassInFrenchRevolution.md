@@ -4,7 +4,7 @@ Earlier the resources required for protests or to facilitate the grievance of th
 
 <hr>
 
-### Also see:
+### Related
 - [Why was the French Revolution inevitable?](./causesFrenchRevolution.md)
 
 <hr>
