@@ -1,7 +1,7 @@
 # The Accessibility Project
 
 ---
-
+[Intent](./intent.md)
 [Analysis](The%20Accessibility%20Project%20932cb8b981cd433cb3a8d9ddc1702e1e/Analysis%20dd9dee52cdf1468cb608a8fb1981bb3f.md) 
 
 [Knowledge Base](The%20Accessibility%20Project%20932cb8b981cd433cb3a8d9ddc1702e1e/Knowledge%20Base%208c6f3dd8ba3d4fd79434315ac4040608.md) 
