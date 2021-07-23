@@ -1,11 +1,12 @@
 State the purpose of this page
 
-<hr>
 
-Categories
 
-<hr>
+# Categories
 
-Economics
+### Society
 
-[Society](./knowledgebase/society/commonsense.md)
+1. [Is 'common sense' universal?](./knowledgebase/kbSociety/commonsense.md)
+
+
+
