@@ -6,7 +6,7 @@ State the purpose of this page
 
 ### Society
 
-1. [Is 'common sense' universal?](./knowledgebase/kbSociety/commonsense.md)
+1. [Is 'common sense' universal?](./kbSociety/commonsense.md)
 
 
 
