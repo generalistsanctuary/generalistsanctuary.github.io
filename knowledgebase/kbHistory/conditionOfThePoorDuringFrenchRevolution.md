@@ -6,7 +6,7 @@ Irrespective of the rule the poor always suffered and the richer section traded 
 
 <hr>
 
-### Also see
+### Related
 - [Why was the French Revolution inevitable?](./causesFrenchRevolution.md)
 
 <hr>
