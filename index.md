@@ -13,5 +13,5 @@
 
 #### Recently posted/updated
 
-- [Is common sense universal?]
-- 
+- [Is common sense universal?](./knowledgebase/kbSociety/commonsense.md)
+- [Why was the French Revolution inevitable?](./knowledgebase/kbHistory/causesFrenchRevolution.md)
