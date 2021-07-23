@@ -12,7 +12,7 @@ int main(){
 
 Looks beautiful ? Without a doubt. But what do these lines of code actually want to say ? For those who are familiar or ever had to come across any programming language in their life would know that it simply says "Hello, world!".  And for those who are not familiar with it can try locating - **printf ("Hello, World!")** in the image. This is national income.
 
-Here comes the explainer. As you would have rightly noticed, all the fancy and colorful lines are indeed inputs which transform themselves into an output. National income like "Hello, World" is the output created by numerous economic activities-  like lines of code- which are carried out by a country's citizens, both within and outside the territorial boundary of the country. 
+Here comes the explainer. As you would have rightly noticed, all the fancy lines are indeed inputs which transform themselves into an output. National income like "Hello, World" is the output created by numerous economic activities-  like lines of code- which are carried out by a country's citizens, both within and outside the territorial boundary of the country. 
 
 > **It is therefore the total of all the individual income that the citizens of a particular country earn.**
 
