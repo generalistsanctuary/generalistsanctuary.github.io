@@ -6,3 +6,8 @@ Earlier the resources required for protests or to facilitate the grievance of th
 
 ### Also see:
 - [Why was the French Revolution inevitable?](./causesFrenchRevolution.md)
+
+<hr>
+
+### References
+- https://ncert.nic.in/textbook.php?iess3=1-5
