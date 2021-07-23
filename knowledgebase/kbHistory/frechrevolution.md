@@ -1,6 +1,6 @@
 # French Revolution
 
-## Causes
+### Causes
 France's growing indebtedness arising out of its participation in long wars like that of the liberation of the 13 American colonies began to erode its royal treasury. Apart from financing wars much of the treasury was also used for the purposes of austerity. In such a situation of extreme expenditure Louis XVI sought to increase taxes to keep up with the rate of expenditure. These taxes were to be imposed on the people of the third estate therefore sparring the nobility and clergy.However the timing of such a policy was met with two other developments. On one hand there was a subsistence crisis and on the other a current of new social and political ideas.
 
 The subsistence crisis was a result of both increasing population and a large section of poor people. As prices rose  affordable food remained inaccessible for a larger section of the country. This resulted in weakening of bodies leading to **epidemics**. **Food riots** ensued as desperation increased. The final result, was inevitably, loss of human lives.
@@ -8,3 +8,7 @@ The subsistence crisis was a result of both increasing population and a large se
 Simultaneously new political ideas like that of the [[social contract]] and [[division of power]] challenged the status quo. Also developments across the Atlantic such as America's constitution and Declaration of Rights fascinated many to imagine what would a country be like where the right to life, liberty of expression and equality were inalienable. These intellectual ideas  found ways into the minds of the people primarily due to the emerging middle class. It was the middle class who would lead the discussions in clubs and markets making many who couldn't read and write aware of these new ideas.
 
 In 1789 these events culminated with the people of the third estate taking up arms against an unjust rule. And as the violence grew another section (**National Assembly**) drafted the constitution of a new country overthrowing the monarch and establishing a Constitutional Monarchy, under which lived not subjects but citizens.
+
+### Role of the middle class
+
+Earlier the resources required for protests or to facilitate the grievance of the poor was possible only with the help of the richer section section of the third estate. But they were in a minority since around 90% of the people were poor peasant. But with increasing participation of the people of the third estate in overseas trade wealth began to find ways into in their households. These people were part of the emerging middle class. Not only could they now mobilize resources but they also actively took part in discussions regarding the novel ideas of social contract and division of power. With exposure to such ideas they began to refute the theory of divine right and believed in restructuring of social positions based on merit. As such played they played a pivotal role in convening of the National Assembly after the Tennis court oath which finally culminated with the establishment of constitutional monarchy in France.
