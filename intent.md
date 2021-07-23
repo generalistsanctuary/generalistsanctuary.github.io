@@ -4,4 +4,4 @@ Now that we have established the plot you might be interested in knowing -
 
 > **What this project is about?**
 
-This is perhaps not the way how I thought the project would evolve. Initially, I thought of creating a wiki that would include  
+This is perhaps not the way how I thought the project would evolve. Initially, I thought of creating a wiki that would include exhaustive resources which one would require to get a hang of both the usual and unusual things that surronds and impact us. With that in my mind I imagined ways of organizing these pages. Handicapped with my thoughts I turned to pen and paper to visualise the system. Yes, one can create multiple directories to store and organize these files but then to navigate through that system to find a particular page brought immense resistance     
