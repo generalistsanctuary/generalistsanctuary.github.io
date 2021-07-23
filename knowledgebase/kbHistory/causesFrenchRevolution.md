@@ -1,6 +1,5 @@
-# French Revolution
+# Why was the French Revolution inevitable?
 
-### Causes
 France's growing indebtedness arising out of its participation in long wars like that of the liberation of the 13 American colonies began to erode its royal treasury. Apart from financing wars much of the treasury was also used for the purposes of austerity. In such a situation of extreme expenditure Louis XVI sought to increase taxes to keep up with the rate of expenditure. These taxes were to be imposed on the people of the third estate therefore sparring the nobility and clergy.However the timing of such a policy was met with two other developments. On one hand there was a subsistence crisis and on the other a current of new social and political ideas.
 
 The subsistence crisis was a result of both increasing population and a large section of poor people. As prices rose  affordable food remained inaccessible for a larger section of the country. This resulted in weakening of bodies leading to **epidemics**. **Food riots** ensued as desperation increased. The final result, was inevitably, loss of human lives.
