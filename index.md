@@ -1,9 +1,9 @@
 # The Accessibility Project
-<hr>
+
 
 [Intent](./intent.md)
 
-[Knowledge Base](./knowledgebase/society/commonsense.md)
+[Knowledge Base](./knowledgebase/knowledgeBase.md)
 
 [Analysis](./analysis/analysisHome.md)
 
