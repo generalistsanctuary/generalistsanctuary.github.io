@@ -13,4 +13,3 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 title: The Accessibility Project
-markdown: kramdown
