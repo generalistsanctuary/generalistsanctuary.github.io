@@ -1,6 +1,13 @@
 # National Income
 
 Consider the following code-
+```
+#include<stdio.h>
+int main(){
+  printf("Hello World!");
+  return 0;
+ }
+```
 
 
 Looks beautiful ? Without a doubt. But what do these lines of code actually want to say ? For those who are familiar or ever had to come across any programming language in their life would know that it simply says "Hello, world!".  And for those who are not familiar with it can try locating - **printf ("Hello, World!")** in the image. This is national income.
