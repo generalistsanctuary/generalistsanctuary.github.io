@@ -15,3 +15,8 @@
     Newspapers for long have formed informed opinion. Through them much of the idea of the Indian National Movement landed in the consciousness of the masses. Its existence therefore becomes as necessary as an independent judiciary and a freely elected legislature. 
 
     In this context, this site derives data and information from newspapers and blend them with existing domain of other texts to develop knowledge on broader issues which plagues the country. I hope that by using these resources both the reader as well as the creator of this site are able to cultivate their own wisdom, for why do we age? Not to grow old but to only grow wiser.
+
+<hr>
+
+See more:
+- [[page1]](https://raw.githubusercontent.com/theaccessibilityproject/theaccessibilityproject/main/page1.html)
