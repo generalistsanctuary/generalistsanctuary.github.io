@@ -3,7 +3,7 @@
 
 [Intent](./intent.md)
 
-[Knowledge Base](./knowledgebase/commonsencse.md)
+[Knowledge Base](./knowledgebase/commonsense.md)
 
 <hr>
 
