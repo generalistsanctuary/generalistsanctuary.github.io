@@ -19,4 +19,4 @@
 <hr>
 
 See more:
-- [[page1]](https://raw.githubusercontent.com/theaccessibilityproject/theaccessibilityproject/main/page1.html)
+- [[page1]](https://raw.githubusercontent.com/theaccessibilityproject/theaccessibilityproject/main/page1.md)
