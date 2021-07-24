@@ -1,4 +1,5 @@
 ---
+title: sdsdsd
 category: society
 ---
 # Is 'common sense' universal?
