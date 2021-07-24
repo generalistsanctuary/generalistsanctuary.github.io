@@ -1,3 +1,6 @@
+---
+layout: homepage
+---
 # The Accessibility Project
 
 
