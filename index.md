@@ -12,6 +12,9 @@
 
 > **Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? - TS Eliot**
 
+{% for post in site.categories.two%}
+  <li><a href="{{post.url}}">{{page.title}}</a></li>
+{% endfor %}
 #### Recently posted/updated
 
 - [What is national income?](./knowledgebase/kbEconomics/nationalIncome.md)
