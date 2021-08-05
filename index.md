@@ -9,7 +9,7 @@
 
 <br>
 
-{{site.categories | where:"categories", "two"}}
+{{site.posts}}
 
 <br>
 
