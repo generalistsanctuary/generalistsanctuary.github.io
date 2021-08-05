@@ -1,12 +1,7 @@
 
 # The Accessibility Project
 
-
-[Intent](./intent.md)
-
-[Knowledge Base](./knowledgebase/knowledgeBase.md)
-
-[today](./knowledgebase/today.html)
+[Articles](./knowledgebase/knowledgeBase.md)
 
 <hr>
 
