@@ -1,15 +1,32 @@
 
-# The Accessibility Project
 
-[Articles](./knowledgebase/knowledgeBase.md)
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    h1{
+        background: rgb(50,182,160);
+        background: linear-gradient(90deg, rgba(50,182,160,1) 100%, rgba(227,245,238,1) 100%, rgba(0,212,255,1) 100%)
+    }
+  </style>
 
-<hr>
-
-> **Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? - TS Eliot**
-
-<br>
-
-{{site.posts}}
-
-<br>
-
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://theaccessibilityproject.github.io/">The Accessibility Project</a></h1>
+      
+  <blockquote>
+  <p>Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information? - TS Eliot</p>
+  </blockquote>
+   <br>
+   <h2>Latest posts</h2>  
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
