@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
   <style>
-    h1{
+    header{
         background: darkcyan;
         padding: 10% ;
         align-content: center;
@@ -17,6 +17,7 @@
         text-align: center;
         margin-top: 0%;
         letter-spacing: 1.5px;
+        font-size: 50px;
     
     }
     body{
@@ -38,7 +39,7 @@
 
   </head>
   <body>
-      <h1>Generalists' Haven</h1>
+      <header>Generalist Haven</header>
       <p><span style="font-size: larger;"><strong>Latest posts</strong></span></p>
       {% for post in site.posts %}
     <li><a href="{{post.url}}">{{post.title}}</a></li>
