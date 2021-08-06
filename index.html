@@ -13,16 +13,18 @@
     title{
       background: darkcyan;
     }
-    header{
+   header{
         background: darkcyan;
-        padding: 8% ;
+        padding: 10% ;
         align-content: center;
         color: white;
         text-align: center;
         margin-top: 0%;
         margin-bottom: 5%;
         letter-spacing: 1.5px;
-        font-size: 50px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        
     }
     body{
         margin: 0 auto;
@@ -48,7 +50,7 @@
 
   </head>
   <body>
-      <header>Generalist Haven</header>
+      <header style="font-size:7vw">Generalist Haven</header>
       <p><span style="font-size: larger;"><strong>Latest posts</strong></span></p>  
       {% for post in site.posts %}
     <li><a href="{{post.url}}">{{post.title}}</a></li>
