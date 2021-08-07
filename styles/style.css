@@ -40,7 +40,7 @@ h1{
       font-size: 20px;
       padding-left: 20px;
   }
-  li{
+  .postsList{
       max-width: 800px;
       margin: 0 auto;
       line-height: 1.5;
