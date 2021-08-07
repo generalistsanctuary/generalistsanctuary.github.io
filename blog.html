@@ -21,8 +21,11 @@
        </nav>
        <header><h1><span style="font-size:5vw;">Generalist Sanctuary</span>/Blog</h1></header>
       <p>This page contains a list of all the posts either in the form of short analyses on recurring as well as latest issues or as explainers. Although the analyses attempt to cover a broad spectrum of topics it is usually presented in a non-technical or a generalist perspective. Happy reading.This page attempts to explain issues bothering the world in general and India in particular along with concepts and terminologies which are academic in nature. Happy understanding.</p> 
-      {% for post in site.posts %}
-    <div class="postsList"><li><a href="{{post.url}}">{{post.title}}</a></li></div>
+      {% for cat in site.categories %}
+        <h3>{{cat[0]| capitalize}}<h3>
+          {% for post in cat[1]%}
+          <li><a href="{{post.url"}}>{{post.title}}</a><li>
+        {% endfor %}
       {% endfor %}
       
   </body>
