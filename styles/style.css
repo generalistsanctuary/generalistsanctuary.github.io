@@ -51,6 +51,6 @@ h1{
       text-decoration: none;
       color: darkcyan;
   }
-  .postList a:hover{
+  .postsList a:hover{
       color: black;          
   }
