@@ -47,12 +47,15 @@ h1{
       padding-left: 2%;
       padding-right: 2%;
   }
-  .postsList a:link{
+  .postsList a:link {
       text-decoration: none;
       color: darkcyan;
   }
-  
-  .postsList a:hover{
+  .postsList a:visited {
+      text-decoration: none;
+      color: darkcyan;
+  }
+  .postsList a:hover {
       text-decoration: none;
       color: black;
   }
