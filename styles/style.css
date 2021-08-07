@@ -25,7 +25,9 @@ h1{
   }
   nav{
       background-color: rgb(86, 143, 143);
-      display: flex;        
+      display: flex;   
+      position: sticky;
+      width:100%;  
   }
   nav li{
       display: inline;   
