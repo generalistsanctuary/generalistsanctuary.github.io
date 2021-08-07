@@ -8,53 +8,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
-    <title>Generalist Haven</title>
-  <style>
-    title{
-      background: darkcyan;
-    }
-    header{
-        max-width: 800px;
-        margin: 0 auto;
-        color: black;
-        margin-top: 0%;
-        margin-bottom: 2%;
-        letter-spacing: 1.5px;
-        font-family: 'Times New Roman', Times, serif;
-        font-size: 50px;
-        font-weight: bold;
-    }
-    body{
-        margin: 0 auto;
-        font-family: 'Roboto', sans-serif;
-        
-    }
-    p{
-      max-width: 800px;
-      margin: 0 auto;
-      line-height: 1.5;
-      padding-left: 2%;
-      padding-right: 2%;
-    }
-    li{
-      max-width: 800px;
-      margin: 0 auto;
-      line-height: 1.5;
-      padding-left: 2%;
-      padding-right: 2%;
-    }
-    div{
-      max-width: 800px;
-      margin: 0 auto;
-      padding-left: 2%;
-      padding-right: 2%;
-    }
-    
-  </style>
-
+    <link rel="stylesheet" href="{{site.baseurl}}/styles/style.css">
+    <title>{{page.title}}|Generalist Haven</title>
   </head>
   <body>
-      <header>{{page.title}}</header>
+       <nav>
+        <ul>
+          <li><a href="{{site.baseurl}}" >Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Articles</a></li>
+        </ul>
+       </nav>
+       <header><h1>{{page.title}}</h1></header>
       {{content}}
   </body>
 </html>
