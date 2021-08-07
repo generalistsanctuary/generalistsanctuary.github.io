@@ -29,14 +29,21 @@ h1{
   nav li{
       display: inline;   
   }
-  a:hover{
+  nav a:hover{
       color: black;
   }
-  a{
+  nav a{
       text-decoration: none;
       color: white;
       text-align: center;
       margin-right: 30px;
       font-size: 20px;
       padding-left: 20px;
+  }
+  li{
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.5;
+      padding-left: 2%;
+      padding-right: 2%;
   }
