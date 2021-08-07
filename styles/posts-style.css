@@ -59,7 +59,11 @@ h1{
       text-decoration: none;
       color: black;
   }
-code{
-     max-width: 800px;
-     margin: 0 auto;
+ol{
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.8;
+      padding-left: 4%;
+      padding-right: 4%;
+      font-size: 18px;
 }
