@@ -51,11 +51,9 @@ h1{
       text-decoration: none;
       color: darkcyan;
   }
+  
   .postsList a:hover{
       text-decoration: none;
       color: black;
   }
-  .postsList a:visited{
-      text-decoration: none;
-      color: darkcyan;
-  }
+  
