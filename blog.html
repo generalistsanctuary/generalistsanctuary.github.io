@@ -23,10 +23,12 @@
       <p>This page contains a categorised list of all the posts. These are either in the form of short analyses on recurring as well as latest issues or in the form of explainers. Although the analyses attempt to cover a broad spectrum of topics it is usually presented in a non-technical or a generalist perspective. And the explainers are on issues bothering the world in general and India in particular. The explainers also cover concepts and terminologies which are academic in nature. Happy reading and understanding.</p> 
       <br>
       {% for cat in site.categories %}
-        <p><span style="font-size:larger; font-weight: bold;">{{cat[0]| capitalize}}</span></p>
-          {% for post in site.categories.cat[0] %}
+        <h3>{{cat[0]| capitalize}}</h3>
+          <ul>
+          {% for post in cat[1] %}
           <li><a href="{{post.url"}}>{{post.title}}</a></li>
           {% endfor %}
+          </ul>
       {% endfor %}
       
   </body>
