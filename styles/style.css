@@ -29,7 +29,7 @@ h1{
   nav li{
       display: inline;   
   }
-  a:hover{
+  nav a:hover{
       color: black;
   }
   nav a{
@@ -47,8 +47,11 @@ h1{
       padding-left: 2%;
       padding-right: 2%;
   }
-  .postsList a{
+  .postsList a:link{
       text-decoration: none;
       color: darkcyan;
   }
-  
+  .postsList a:hover{
+      text-decoration: none;
+      color: black;
+  }
