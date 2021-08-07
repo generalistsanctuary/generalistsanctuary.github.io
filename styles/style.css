@@ -17,7 +17,7 @@ h1{
   }
   p{
     font-size: 18px;
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
     line-height: 1.8;
     padding-left: 4%;
@@ -40,7 +40,7 @@ h1{
       padding-left: 20px;
   }
   .postsList{
-      max-width: 800px;
+      max-width: 700px;
       margin: 0 auto;
       line-height: 1.8;
       padding-left: 4%;
