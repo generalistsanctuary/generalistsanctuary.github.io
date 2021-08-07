@@ -25,9 +25,7 @@ h1{
   }
   nav{
       background-color: rgb(86, 143, 143);
-      display: flex;   
-      position: fixed;
-      width:100%;  
+      display: flex;    
   }
   nav li{
       display: inline;   
@@ -37,18 +35,17 @@ h1{
   }
   nav a{
       text-decoration: none;
-      color: white;
-      
-      
+      color: white;    
       font-size: 20px;
       padding-left: 20px;
   }
   .postsList{
       max-width: 800px;
       margin: 0 auto;
-      line-height: 1.5;
+      line-height: 1.8;
       padding-left: 2%;
       padding-right: 2%;
+      font-size: 18px;
   }
   .postsList a:link {
       text-decoration: none;
