@@ -1,14 +1,17 @@
-  body{
+h1{
+font-family: 'Noto Serif', serif;
+}  
+body{
       max-width: 700px;
       margin: 0 auto;
+      padding-left: 4%;
+      padding-right: 4%;
       font-family: 'Roboto', sans-serif;
-  }
+}
   p{
     font-size: 18px;
     line-height: 1.8;
-    padding-left: 4%;
-    padding-right: 4%;
-  }
+      }
   nav{
       background-color: rgb(86, 143, 143);
       display: flex;    
