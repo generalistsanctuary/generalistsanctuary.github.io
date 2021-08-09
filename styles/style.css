@@ -17,18 +17,17 @@ body{
     line-height: 1.8;
 }
   nav{
-      background-color: rgb(86, 143, 143);
-      display: flex;    
+      border-bottom: 2px solid black;    
   }
   nav li{
       display: inline;   
   }
   nav a:hover{
-      color: black;
+      color: darkcyan;
   }
   nav a{
       text-decoration: none;
-      color: white;    
+      color: black;    
       font-size: 20px;
       padding-left: 20px;
   }
