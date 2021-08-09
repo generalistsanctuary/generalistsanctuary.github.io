@@ -1,12 +1,13 @@
 h1{   
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Noto Serif', serif;
 }  
 body{
       max-width: 700px;
       margin: 0 auto;
       padding-left: 4%;
       padding-right: 4%;
-      font-family: 'Noto Serif', serif;
+      font-family: 'Roboto', sans-serif;
+      
 }
   p{
     font-size: 18px;
