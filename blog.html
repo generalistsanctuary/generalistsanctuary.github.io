@@ -9,17 +9,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{site.baseurl}}/styles/style.css">
-    <title>Blog|Generalist Sanctuary</title>
+    <title>Categories|Generalist Sanctuary</title>
   </head>
   <body>
        <nav>
         <ul>
           <li><a href="index.html" >Home</a></li>
           <li><a href="#">About</a></li>
-          <li><a href="#">Blog</a></li>
+          <li><a href="#">Categories</a></li>
         </ul>
-       </nav>
-       <header><h1><span style="font-size:5vw;">Generalist Sanctuary</span>/Blog</h1></header> 
+       </nav> 
       {% for cat in site.categories %}
         <h3>{{cat[0]| capitalize}}</h3>
           
