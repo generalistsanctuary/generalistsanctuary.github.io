@@ -21,8 +21,11 @@
           <li><a href="category.html">Categories</a></li>
         </ul>
        </nav>
-      <h1>Generalist Sanctuary</h1>
-      <p><span style="font-size: larger;"><strong>Latest posts</strong></span></p>  
+     <div class="intro">
+         <h1>Generalist Sanctuary</h1>
+          <p>: a refuge for learnings and thoughts.</p>
+      </div>
+       <p><span style="font-size: larger;"><strong>Latest posts</strong></span></p>  
       {% for post in site.posts %}
     <div class="postsList"><li><a href="{{post.url}}">{{post.title}}</a></li></div>
       {% endfor %}
