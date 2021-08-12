@@ -34,8 +34,10 @@ nav a{
     padding-left: 20px;
 }
 .postsList{
-    line-height: 1.8;
-    font-size: 18px;
+    max-width: 550px;
+  margin: 0 auto;
+  padding: 0 10%;
+  font-size: 18px;
 }
 .postsList a:link {
     text-decoration: none;
