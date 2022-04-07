@@ -19,9 +19,9 @@ body{
 }
 p{
   max-width: 700px;
-  margin: 0 auto;
+  margin: 1% auto;
   padding: 0 10%;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.7;
 }
 nav{
@@ -53,7 +53,7 @@ nav a{
     max-width: 700px;
   margin: 0 auto;
   padding: 0 10%;
-  font-size: 18px;
+  font-size: 16px;
 }
 .postsList a:link {
     text-decoration: none;
