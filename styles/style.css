@@ -24,6 +24,7 @@ p{
   padding: 0 20px;
   font-size: 18px;
   line-height: 1.7;
+  color: hsl(0deg 0% 26%);
 }
 nav{
     border-bottom: 1px solid rgb(12, 12, 12);    
@@ -57,6 +58,7 @@ nav a{
   margin-right: auto;
   padding: 0 20px;
   font-size: 18px;
+  line-height: 1.7;
 }
 .postsList a:link {
     text-decoration: none;
