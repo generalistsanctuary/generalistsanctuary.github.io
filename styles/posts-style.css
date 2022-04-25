@@ -29,7 +29,7 @@ pre{
   margin-left: auto;
   margin-right: auto;
   padding: 0 20px;
-  margin-bottom: 0.75%;
+  
 }
 blockquote{
     
@@ -88,10 +88,9 @@ max-width: 700px;
 }
 ol{
       max-width: 700px;
-      margin: 0 auto;
-      line-height: 1.8;
-      padding-left: 4%;
-      padding-right: 4%;
-      font-size: 16px;
-      
+      margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+  font-size: 18px;
+  line-height: 1.7;
 }
