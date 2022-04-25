@@ -6,31 +6,35 @@ body{
 }
 h1{
  max-width: 700px;
-  margin: 0 auto;
-  padding: 0 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
   margin-bottom: 0.75%;
 }
 h2{
 max-width: 700px;
-  margin: 0 auto;
-  padding: 0 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
   margin-bottom: 0.75%;
 }
 p{
   max-width: 700px;
-  margin: 1% auto;
-  padding: 0 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
   font-size: 18px;
   line-height: 1.7;
 }
 pre{
  max-width: 700px;
-  margin: 0 auto;
-  padding: 0 10%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
   margin-bottom: 0.75%;
 }
 blockquote{
-
+    
 }
 nav{
     border-bottom: 1px solid rgb(12, 12, 12);
