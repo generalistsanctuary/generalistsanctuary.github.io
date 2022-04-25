@@ -23,6 +23,7 @@ p{
   padding: 0 20px;
   font-size: 18px;
   line-height: 1.7;
+  color: hsl(0deg 0% 26%);
 }
 pre{
  max-width: 700px;
@@ -80,11 +81,12 @@ nav a{
 }
 ul{
 max-width: 700px;
-      margin: 0 auto;
-      line-height: 1.8;
-      padding-left: 4%;
-      padding-right: 4%;
-      font-size: 16px;
+       margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+  font-size: 18px;
+  line-height: 1.7;
+    color: hsl(0deg 0% 26%);
 }
 ol{
       max-width: 700px;
@@ -93,4 +95,5 @@ ol{
   padding: 0 20px;
   font-size: 18px;
   line-height: 1.7;
+    color: hsl(0deg 0% 26%);
 }
