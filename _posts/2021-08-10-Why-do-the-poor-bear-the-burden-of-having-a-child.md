@@ -2,6 +2,7 @@
 layout: post
 title: Why do the poor bear the burden of having a child?
 category: opinion 
+img: ../assets/poor-child.png
 ---
 ![Cover](../assets/poor-child.png)
 
