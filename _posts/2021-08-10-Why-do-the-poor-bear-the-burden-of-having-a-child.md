@@ -4,8 +4,6 @@ title: Why do the poor bear the burden of having a child?
 category: opinion 
 img: ../assets/poor-child.png
 ---
-![Cover](../assets/poor-child.png)
-
 The poor before being poor are people. It might be difficult being poor but it would definitely be more difficult not being  people. When we question their decision to have kids on the basis of economics we also implicitly assume that they are completely rational beings. But in doing so we forget that they, you, and I are not Homo economicus but Homo sapiens. 
 
 This emotion, however, need not always be guided by a desire for having a child for it can also be a manifestation of social expectations. Most, if not all, live in a family and this institution of family expects each individual to conform to their socially determined roles. In this case it expects a couple to have a child. This decision, therefore,  although seems voluntary but in practice it is the society acting through the individual.
