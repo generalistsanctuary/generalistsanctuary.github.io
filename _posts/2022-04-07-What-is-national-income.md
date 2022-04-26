@@ -2,7 +2,7 @@
 layout: post
 title: What is national income?
 category: Economics
-img: ../assets/kilimanjaro.jpg
+img: generalistsanctuary.github.io/assets/kilimanjaro.jpg
 ---
 Consider the following code-
 ```
